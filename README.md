@@ -5,7 +5,6 @@
 
 
 
-- 🌱 I’m currently learning **Android Studio, Spring Boot**
 
 - 📫 How to reach me **surajgojanur@gmail.com**
 
