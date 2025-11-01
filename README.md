@@ -23,6 +23,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajgojanur&show_icons=true&locale=en&layout=compact" alt="surajgojanur" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajgojanur&show_icons=true&locale=en" alt="surajgojanur" /></p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surajgojanur&theme=tokyonight)
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajgojanur" alt="GitHub Streak" />
+</p>
 
