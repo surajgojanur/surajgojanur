@@ -25,5 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajgojanur&show_icons=true&locale=en" alt="surajgojanur" /></p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajgojanur&theme=tokyonight&v=1" alt="GitHub Streak" />
+  <img src="https://github.com/users/surajgojanur/contributions" alt="surajgojanur's contribution calendar" />
 </p>
