@@ -24,7 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajgojanur&show_icons=true&locale=en" alt="surajgojanur" /></p>
 
-<p align="center">
-  <img src="https://leetcode-stats-card.vercel.app/surajgojanur?theme=dark&border=0&font=baloo&animation=true" alt="LeetCode Stats" />
-</p>
-
