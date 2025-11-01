@@ -23,6 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajgojanur&show_icons=true&locale=en&layout=compact" alt="surajgojanur" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajgojanur&show_icons=true&locale=en" alt="surajgojanur" /></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajgojanur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="surajgojanur's GitHub stats" />
-</p>
