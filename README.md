@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
-<h3 align="center">The lower you go, the more amusing it gets... Just kidding. You'll only go insane.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajgojanur&label=Profile%20views&color=0e75b6&style=flat" alt="surajgojanur" /> </p>
 
