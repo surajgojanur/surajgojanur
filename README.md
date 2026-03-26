@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 
-[<script src="https://gist.github.com/surajgojanur/c0028190fcb9ba1610b1bac834c3f8de.js"></script>](https://gist.github.com/surajgojanur/c0028190fcb9ba1610b1bac834c3f8de)
+## 🧠 Checkstyle Contribution Notes
+
+- 📝 My learning from contributing to Checkstyle:
+  👉 https://gist.github.com/surajgojanur/c0028190fcb9ba1610b1bac834c3f8de
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajgojanur&label=Profile%20views&color=0e75b6&style=flat" alt="surajgojanur" /> </p>
 
