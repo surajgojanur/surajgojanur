@@ -29,3 +29,15 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajgojanur&show_icons=true&locale=en" alt="surajgojanur" /></p>
 
+
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surajgojanur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=surajgojanur&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajgojanur&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
