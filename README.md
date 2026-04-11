@@ -1,105 +1,63 @@
-<h1 align="center">Hi 👋, I'm Suraj Gojanur</h1>
+<h1 align="center">Hi 👋, I'm Suraj</h1>
 
-<h3 align="center">
-🚀 Full-Stack Engineer | AI + Security Systems Builder | Open Source Contributor
-</h3>
-
----
-
-## 🧩 About Me
-
-- 🏗️ Building **SentinelSystem** — an AI-powered workforce + governance platform  
-- 🔐 Exploring **AI Security & Prompt Injection Defense**  
-- 🛠️ Active contributor to **Checkstyle (GSoC-focused)**  
-- 🧠 I design systems, not just features — from backend logic → frontend → infra  
-- 🎯 Goal: Build production-grade systems that solve real operational problems  
+<p align="center">
+🚀 Full-Stack Engineer | 🔐 AI Security Builder | 🛠 Open Source Contributor
+</p>
 
 ---
 
-## ⚡ What I'm Working On
+## ⚡ What I Bring
 
-- 🧠 AI-powered **risk detection & escalation systems**
-- 📊 **KPI-driven workforce intelligence dashboards**
-- 🔐 **Secure chat systems with role-based knowledge control**
-- 🤖 Integrating **malicious prompt detection datasets into real apps**
-
----
-
-## 🏗️ Featured Project
-
-### 🔥 SentinelSystem (Core Project)
-
-> Full-stack workforce + governance platform with AI + security layer
-
-**Key Features:**
-- Assignment → Progress → KPI → Risk → Escalation pipeline
-- Real-time Kanban + workload tracking
-- Risk scoring engine (deadline + performance aware)
-- Escalation system with audit tracking
-- AI chat with **role-based knowledge restriction**
-- Upcoming: **Prompt Injection Detection + Security Layer**
+- 🧠 Build **end-to-end systems** (backend → frontend → infra)
+- 🔐 Design **secure AI workflows** (prompt injection defense, role-based control)
+- 📊 Create **KPI + risk-driven systems** (real-time decision pipelines)
+- ⚙️ Fix & improve **complex codebases** (CI, tests, architecture)
 
 ---
 
-## 🧪 Open Source Work
+## 🏗️ What I’m Doing
 
-- 🔧 Contributing to **Checkstyle**
-- 🧠 Working on:
-  - Test consistency improvements
-  - AST-based validation systems
-  - CI + mutation testing fixes (PIT)
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Backend
-- Python (Flask, SQLAlchemy)
-- Node.js / Express
-- Java (Checkstyle contributions)
-
-### 🎨 Frontend
-- React + Vite
-- Kanban UI (Drag & Drop systems)
-
-### 🧠 AI / Security
-- Prompt Injection Detection
-- Dataset-driven AI behavior control
-- Role-based knowledge filtering
-
-### ⚙️ DevOps / Tools
-- Docker + Docker Compose
-- Git + GitHub Actions (CI)
-- Prisma + PostgreSQL (Neon)
+- 🔥 Building **SentinelSystem**  
+  → AI-powered workforce + governance platform  
+- 🧪 Contributing to **Checkstyle (GSoC)**  
+- 🤖 Integrating **AI security datasets into production systems**
 
 ---
 
-## 📈 Current Focus
+## 🤝 If You Work With Me
 
-- 🔐 AI Security Systems (Prompt Defense, Role Isolation)
-- 🏗️ Scalable System Design
-- 🤝 Open Source Contributions (GSoC 2026)
+- I don’t just code → I **own the system**
+- I focus on **scalable, testable, production-ready solutions**
+- I can take **unclear problems → shipped features**
+- I optimize for **real impact, not just code**
 
 ---
 
-## 💬 Ask Me About
+## 🛠️ Tech
 
-- Full-stack system design
-- AI + security integration
-- Backend architecture
-- Debugging real-world systems
+<p>
+<img src="https://skillicons.dev/icons?i=react,vue,js,ts,nodejs,python,java,docker,postgres,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surajgojanur&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajgojanur&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surajgojanur&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Reach Me
 
 - 📧 surajgojanur@gmail.com  
-- 🌐 Portfolio: https://suraj-portfolio-360.netlify.app/ :contentReference[oaicite:0]{index=0}  
+- 🌐 Portfolio: https://suraj-portfolio-360.netlify.app/
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ One Line
 
-> I don't just build features — I build systems that think.
-
----
+> I build systems that **think, scale, and defend themselves.**
