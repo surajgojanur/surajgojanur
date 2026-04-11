@@ -1,43 +1,105 @@
-<h1 align="center">Hi 👋, I'm Suraj</h1>
+<h1 align="center">Hi 👋, I'm Suraj Gojanur</h1>
 
-## 🧠 Checkstyle Contribution Notes
+<h3 align="center">
+🚀 Full-Stack Engineer | AI + Security Systems Builder | Open Source Contributor
+</h3>
 
-- 📝 My learning from contributing to Checkstyle:
-  👉 https://gist.github.com/surajgojanur/c0028190fcb9ba1610b1bac834c3f8de
-  
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajgojanur&label=Profile%20views&color=0e75b6&style=flat" alt="surajgojanur" /> </p>
+## 🧩 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajgojanur" alt="surajgojanur" /></a> </p>
+- 🏗️ Building **SentinelSystem** — an AI-powered workforce + governance platform  
+- 🔐 Exploring **AI Security & Prompt Injection Defense**  
+- 🛠️ Active contributor to **Checkstyle (GSoC-focused)**  
+- 🧠 I design systems, not just features — from backend logic → frontend → infra  
+- 🎯 Goal: Build production-grade systems that solve real operational problems  
 
-- 🌱 I’m currently learning **Spring Boot**
+---
 
-- 👨‍💻 All of my projects are available at [https://suraj-portfolio-360.netlify.app/](https://suraj-portfolio-360.netlify.app/)
+## ⚡ What I'm Working On
 
-- 💬 Ask me about **Java, React, Node.js**
+- 🧠 AI-powered **risk detection & escalation systems**
+- 📊 **KPI-driven workforce intelligence dashboards**
+- 🔐 **Secure chat systems with role-based knowledge control**
+- 🤖 Integrating **malicious prompt detection datasets into real apps**
 
-- 📫 How to reach me **surajgojanur@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🏗️ Featured Project
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### 🔥 SentinelSystem (Core Project)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajgojanur&show_icons=true&locale=en&layout=compact" alt="surajgojanur" /></p>
+> Full-stack workforce + governance platform with AI + security layer
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajgojanur&show_icons=true&locale=en" alt="surajgojanur" /></p>
+**Key Features:**
+- Assignment → Progress → KPI → Risk → Escalation pipeline
+- Real-time Kanban + workload tracking
+- Risk scoring engine (deadline + performance aware)
+- Escalation system with audit tracking
+- AI chat with **role-based knowledge restriction**
+- Upcoming: **Prompt Injection Detection + Security Layer**
 
+---
 
+## 🧪 Open Source Work
 
-## GitHub Stats
+- 🔧 Contributing to **Checkstyle**
+- 🧠 Working on:
+  - Test consistency improvements
+  - AST-based validation systems
+  - CI + mutation testing fixes (PIT)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajgojanur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=surajgojanur&theme=tokyonight&hide_border=true" height="170" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajgojanur&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+## 🛠️ Tech Stack
+
+### 💻 Backend
+- Python (Flask, SQLAlchemy)
+- Node.js / Express
+- Java (Checkstyle contributions)
+
+### 🎨 Frontend
+- React + Vite
+- Kanban UI (Drag & Drop systems)
+
+### 🧠 AI / Security
+- Prompt Injection Detection
+- Dataset-driven AI behavior control
+- Role-based knowledge filtering
+
+### ⚙️ DevOps / Tools
+- Docker + Docker Compose
+- Git + GitHub Actions (CI)
+- Prisma + PostgreSQL (Neon)
+
+---
+
+## 📈 Current Focus
+
+- 🔐 AI Security Systems (Prompt Defense, Role Isolation)
+- 🏗️ Scalable System Design
+- 🤝 Open Source Contributions (GSoC 2026)
+
+---
+
+## 💬 Ask Me About
+
+- Full-stack system design
+- AI + security integration
+- Backend architecture
+- Debugging real-world systems
+
+---
+
+## 📫 Reach Me
+
+- 📧 surajgojanur@gmail.com  
+- 🌐 Portfolio: https://suraj-portfolio-360.netlify.app/ :contentReference[oaicite:0]{index=0}  
+
+---
+
+## ⚡ Fun Fact
+
+> I don't just build features — I build systems that think.
+
+---
